@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 四書通證
-#+DATE: 2016-04-12 14:01:35.717585
+#+DATE: 2016-04-12 14:01:35.975867
 #+PROPERTY: ID KR1h0035
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 4
 <pb:KR1h0035_WYG_004-1a>¶
 　　欽定四庫全書¶
@@ -708,8 +708,8 @@
 ¶
 　　家語觀周篇孔子謂南宫敬叔曰(敬叔孟僖子子也)吾聞老¶
 <pb:KR1h0035_WYG_004-29a>¶
-&KR0360;(他甘反)博古知今則吾師也今將徃矣敬叔與俱至¶
-周問禮於老&KR0360;¶
+𣆀(他甘反)博古知今則吾師也今將徃矣敬叔與俱至¶
+周問禮於老𣆀¶
 ¶
 　　左傳昭公十七年秋郯子來朝公與之晏昭子問焉¶
 曰少皥氏鳥名官何故也郯子曰吾祖也我知之昔¶

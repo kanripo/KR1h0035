@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 四書通證
-#+DATE: 2016-04-12 14:01:35.642659
+#+DATE: 2016-04-12 14:01:35.903430
 #+PROPERTY: ID KR1h0035
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 2
 <pb:KR1h0035_WYG_002-1a>¶
 　　欽定四庫全書¶
@@ -80,7 +80,7 @@
 難能也啓蟄不殺則順人道方長不折則恕仁也成¶
 湯恭而以恕是以日躋(躋升也)致思蒯瞶之亂季羔逃¶
 <pb:KR1h0035_WYG_002-4a>¶
-之走郭門守門者謂季羔曰彼有𡙇季羔曰君子不¶
+之走郭門守門者謂季羔曰彼有缺季羔曰君子不¶
 踰又曰彼有竇季羔曰君子不隧(隧従竇出)又曰於此有¶
 室季羔乃入焉¶
 ¶
